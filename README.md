@@ -6,3 +6,5 @@ Thanks:
 https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
 
 En revisión...
+
+Adding a docker file 
