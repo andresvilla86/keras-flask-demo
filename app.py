@@ -12,6 +12,7 @@ app = flask.Flask(__name__)
 model = None
 
 def load_model():
+    #test payload model with several fields
     # load the pre-trained Keras model (here we are using a model
     # pre-trained on ImageNet and provided by Keras, but you can
     # substitute in your own networks just as easily)
